@@ -21,12 +21,12 @@ module.exports ={
             directory: path.join(__dirname, "app")
           },
         hot : true, 
-        // hot gdg maani js bolon css iig browserlu inject hiiged refresh hiihguiger tuhain oorchloltuudg haruulj bh
+        
         port : 3000,
         host: "0.0.0.0"
     },
     mode:'development',
-    
+    // hot gdg maani js bolon css iig browserlu inject hiiged refresh hiihguiger tuhain oorchloltuudg haruulj bh
     module:{
         rules:[
             {

@@ -1,9 +1,11 @@
 @import "normalize.css";
-@import "./base/global.css";
-@import "../styles/base/mixins.css";
 @import "base/variables.css";
+@import "../styles/base/mixins.css";
+@import "./base/global.css";
 @import "./modules/large-hero.css";
 @import "./modules/_btn.css";
 @import "../styles/modules/_wrapper.css";
 @import"./modules/_page-section.css";
-@import "./modules/_headline.css"
+@import "./modules/_headline.css";
+@import "./modules/row.css";
+@import "./modules/generic-content-container.css";
